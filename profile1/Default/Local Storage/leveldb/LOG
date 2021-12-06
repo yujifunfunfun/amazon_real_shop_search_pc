@@ -1,0 +1,6 @@
+2021/11/17-16:27:58.749 4903 Reusing MANIFEST /Users/tozuka/Documents/物販/amazon_real_shop_search_pc/profile1/Default/Local Storage/leveldb/MANIFEST-000001
+2021/11/17-16:27:58.752 4903 Recovering log #4
+2021/11/17-16:27:58.753 4903 Reusing old log /Users/tozuka/Documents/物販/amazon_real_shop_search_pc/profile1/Default/Local Storage/leveldb/000004.log 
+2021/11/17-16:28:36.104 4903 Level-0 table #8: started
+2021/11/17-16:28:36.124 4903 Level-0 table #8: 18640 bytes OK
+2021/11/17-16:28:36.161 4903 Delete type=0 #4

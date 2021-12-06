@@ -1,0 +1,22 @@
+ヤマダ モデル　https://www.yamada-denkiweb.com/search/    ログイン住所登録で在庫見れる
+
+K's　モデル  https://www.ksdenki.com/shop/goods/search.aspx?search=x&keyword=4560330110160  商品ページ遷移で見れる
+
+ヨドバシカメラ　モデル　https://www.yodobashi.com/?word=  商品ページから見れる IAW-T603WL→エラー
+
+えでぃおん　モデル　https://www.edion.com/item_list.html?keyword=   在庫URLhttps://www.edion.com/stocklist.html?p_cd=00068250263&_rt=9Z7ZN9V1dJkB3xL4F8ZgQBEuvGT1P3EzZXtON83SQ&prefecture=13&searchBtnFlg=1
+
+ビックカメラ　モデル　https://www.biccamera.com/bc/category/?q=F-YHUX200-S  在庫URLhttps://www.biccamera.com/bc/tenpo/CSfBcToriokiList.jsp?GOODS_NO=9588115
+
+コジマ　モデル　https://www.kojima.net/ec/prod_list.html?keyword=60299
+
+ノジマ　モデル　https://online.nojima.co.jp/app/catalog/list/init?searchCategoryCode=0&searchMethod=0&searchWord=60299
+
+ラオックス　jan https://www.laox-online.jp/SHOP/list.php?Search=8806173470952
+
+ジョーシン　モデル　https://joshinweb.jp/srhzs.html?KEYWORD=&KEY=ZS_ALL&KEY_M=ALL&QS=&QK=60299
+
+マツヤ電機　 モデル selenium http://shop.matsuyadenki.jp/
+
+
+https://www.edion.com/detail.html?_rt=8ViuLsibTqRrxJUXf66gbngY9Y0mKRafyrLqM6Mo7c&p_cd=00068250263&_keyword=FW3221E9S
